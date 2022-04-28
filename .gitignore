@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # larger datasets
-oscar_si/
+oscar_sl/
