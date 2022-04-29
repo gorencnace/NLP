@@ -1,0 +1,141 @@
+{
+    "version": "v2.0",
+    "data": [{
+		"title": "Normani",
+		"paragraphs": [{
+			"qas": [{
+					"question": "V kateri državi se nahaja Normandija?",
+					"id": "56ddde6b9a695914005b9628",
+					"answers": [{
+							"text": "Francija",
+							"answer_start": 159
+						}, {
+							"text": "Francija",
+							"answer_start": 159
+						}, {
+							"text": "Francija",
+							"answer_start": 159
+						}, {
+							"text": "Francija",
+							"answer_start": 159
+						}
+					],
+					"is_impossible": false
+				}, {
+					"question": "Kdaj so bili Normani v Normandiji?",
+					"id": "56ddde6b9a695914005b9629",
+					"answers": [{
+							"text": "10. in 11. stoletje",
+							"answer_start": 94
+						}, {
+							"text": "v 10. in 11. stoletju",
+							"answer_start": 87
+						}, {
+							"text": "10. in 11. stoletje",
+							"answer_start": 94
+						}, {
+							"text": "10. in 11. stoletje",
+							"answer_start": 94
+						}
+					],
+					"is_impossible": false
+				}, {
+					"question": "Iz katerih držav je Norveška izvirala?",
+					"id": "56ddde6b9a695914005b962a",
+					"answers": [{
+							"text": "Danska, Islandija in Norveška",
+							"answer_start": 256
+						}, {
+							"text": "Danska, Islandija in Norveška",
+							"answer_start": 256
+						}, {
+							"text": "Danska, Islandija in Norveška",
+							"answer_start": 256
+						}, {
+							"text": "Danska, Islandija in Norveška",
+							"answer_start": 256
+						}
+					],
+					"is_impossible": false
+				}, {
+					"question": "Kdo je bil nordijski vodja?",
+					"id": "56ddde6b9a695914005b962b",
+					"answers": [{
+							"text": "Rollo",
+							"answer_start": 308
+						}, {
+							"text": "Rollo",
+							"answer_start": 308
+						}, {
+							"text": "Rollo",
+							"answer_start": 308
+						}, {
+							"text": "Rollo",
+							"answer_start": 308
+						}
+					],
+					"is_impossible": false
+				}, {
+					"question": "Katero stoletje so Normani prvič pridobili svojo identiteto?",
+					"id": "56ddde6b9a695914005b962c",
+					"answers": [{
+							"text": "10. stoletje",
+							"answer_start": 671
+						}, {
+							"text": "prva polovica 10. stoletja",
+							"answer_start": 649
+						}, {
+							"text": "10.",
+							"answer_start": 671
+						}, {
+							"text": "10.",
+							"answer_start": 671
+						}
+					],
+					"is_impossible": false
+				}, {
+					"plausible_answers": [{
+							"text": "Normans",
+							"answer_start": 4
+						}
+					],
+					"question": "Ki je dal svoje ime Normandiji v 1000-ih in 1100-ih",
+					"id": "5ad39d53604f3c001a3fe8d1",
+					"answers": [],
+					"is_impossible": true
+				}, {
+					"plausible_answers": [{
+							"text": "Normandy",
+							"answer_start": 137
+						}
+					],
+					"question": "Kaj je Francija regija?",
+					"id": "5ad39d53604f3c001a3fe8d2",
+					"answers": [],
+					"is_impossible": true
+				}, {
+					"plausible_answers": [{
+							"text": "Rollo",
+							"answer_start": 308
+						}
+					],
+					"question": "Kdo je kralj Karel III. prisegel zvestobo?",
+					"id": "5ad39d53604f3c001a3fe8d3",
+					"answers": [],
+					"is_impossible": true
+				}, {
+					"plausible_answers": [{
+							"text": "10. stoletje",
+							"answer_start": 671
+						}
+					],
+					"question": "Kdaj se je pojavila frankovska identiteta?",
+					"id": "5ad39d53604f3c001a3fe8d4",
+					"answers": [],
+					"is_impossible": true
+				}
+			],
+			"context": "Normani (Norman: Nourmands; Francoščina: Normandi; Latinščina: Normanni) so bili ljudje, ki so v 10. in 11. stoletju dali ime Normandiji, regiji v Franciji. Bili so potomci nordijskih (\"Norman\") napadalcev in piratov iz Danske, Islandije in Norveške, ki so se pod svojim voditeljem Rollom strinjali, da bodo prisegli zvestobo kralju Karlu III. iz Zahodne Frankovske. Skozi generacije asimilacije in mešanja z domačimi frankovskimi in rimsko-gavskimi populacijami so se njihovi potomci postopoma združili s karolinškimi kulturami Zahodne Frankovske. Posebna kulturna in etnična identiteta Normanov se je najprej pojavila v prvi polovici 10. stoletja in se je razvijala v naslednjih stoletjih."
+		}]
+	}]
+}
