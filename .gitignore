@@ -130,3 +130,8 @@ dmypy.json
 
 # larger datasets
 oscar_sl/
+bert_pretrain_data/
+bert_sl/
+bert_mlm/
+CroSloEngual_BERT/
+bert_qa/
