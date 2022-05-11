@@ -132,3 +132,9 @@ dmypy.json
 oscar_sl/
 
 data/for_translating_purposes
+
+bert_pretrain_data/
+bert_sl/
+bert_mlm/
+CroSloEngual_BERT/
+bert_qa/
