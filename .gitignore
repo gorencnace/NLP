@@ -130,3 +130,5 @@ dmypy.json
 
 # larger datasets
 oscar_sl/
+
+data/for_translating_purposes
