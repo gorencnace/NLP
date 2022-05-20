@@ -138,3 +138,4 @@ bert_sl/
 bert_mlm/
 CroSloEngual_BERT/
 bert_qa/
+.idea/
